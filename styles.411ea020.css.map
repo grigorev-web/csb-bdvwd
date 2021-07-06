@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAIA,WACE,YACF,CACA,eACE,iBAAkB,CAClB,aACF","file":"styles.411ea020.css","sourceRoot":"..","sourcesContent":["body {\n  /*font-family: sans-serif; */\n}\n/* при наведении появляется подсказка с large фото */\n.photo-tip {\n  display: none;\n}\n.photo:hover p {\n  position: absolute;\n  display: block;\n}\n"]}
